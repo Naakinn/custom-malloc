@@ -1,5 +1,4 @@
 #include "mem.h"
-#include <stdio.h>
 
 #define BUFSIZE 128
 

@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "mem.h"
 
 static int STATUS = 0;
